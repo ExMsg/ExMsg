@@ -4,7 +4,7 @@ Hi 👋 My name is Artha Adiyaksa
 Full Stack Web Developer
 ------------------------
 
-I'am a 19 y.o from indonesian and have a dream become a great programmer, and have motivation to build a amazing application that people can use :')
+I'am a 20 y.o from indonesian and have a dream become a great programmer, and have motivation to build a amazing application that people can use :')
 
 * 🌍  I'm based in Indonesian
 * 🖥️  See my portfolio at [Here](http://exmsg.github.io)
