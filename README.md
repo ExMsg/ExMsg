@@ -9,7 +9,6 @@ I'am a 20 y.o from indonesian and have a dream become a great programmer, and ha
 * 🌍  I'm based in Indonesian
 * 🖥️  See my portfolio at [Here](http://exmsg.github.io)
 * ✉️  You can contact me at [adittauda808@gmail.com](mailto:adittauda808@gmail.com)
-* 🚀  I'm currently working on [PT ARTHA PUSAKA MITRA SAKTI](http://ptapms.com)
 * 🧠  I'm learning React | Laravel
 * 🤝  I'm open to collaborating on Any Project
 
